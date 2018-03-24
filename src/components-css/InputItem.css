@@ -1,0 +1,21 @@
+.input-item {
+    margin-bottom: 15px;
+}
+
+.input-item-label {
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-item-real {
+    margin: 0px;
+}
+
+.input-note {
+    font-size: 9px;
+}
+
+.input-item-otherlink {
+    color: rgb(39,130,216);
+}

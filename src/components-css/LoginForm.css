@@ -1,0 +1,30 @@
+/* .login-form {
+    padding: 24px;
+
+    max-width: 400px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 5px;
+
+    background-color: rgba(255,255,255,1)
+} */
+
+.login-form {
+    padding: 7px;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 300px;
+
+    background-color: rbga(255,255,255,0.7);
+}
+
+.app-logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    display: block;
+}

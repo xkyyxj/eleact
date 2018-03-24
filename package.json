@@ -1,0 +1,27 @@
+{
+  "name": "second",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "homepage": ".",
+  "DEV": true,
+  "dependencies": {
+    "electron": "^1.8.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-keeper": "^2.1.7",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "electron-start": "electron ."
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "electron-react-devtools": "^0.5.3",
+    "mockjs": "^1.0.1-beta3"
+  }
+}

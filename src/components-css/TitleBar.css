@@ -1,0 +1,27 @@
+.title-bar {
+    width: 100%;
+    -webkit-app-region: drag;
+}
+
+.title-bar-content {
+    height: inherit;
+    float: right;
+}
+
+.minimize-button,.close-button {
+    width: 45px;
+    height: 40px;
+    color: rgba(255,255,255,0.125);
+    background-color: rgba(255,255,255,0);
+    border: none;
+    outline: none;
+}
+
+.minimize-button:hover {
+    background-color: grey;
+    border: none;
+}
+
+.close-button:hover {
+    background-color: red;
+}
